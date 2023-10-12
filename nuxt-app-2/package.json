@@ -16,7 +16,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@nuxtjs/strapi": "^1.9.3",
-    "estree-walker": "^3.0.3"
+    "@nuxtjs/strapi": "^1.9.3"
   }
 }
